@@ -1,0 +1,12 @@
+{
+    "token": "",
+    "version": "1.0.0",
+    "prefix": "_",
+    "expressSettings": {
+        "port": 4000
+    },
+    "discordBotSettings": {
+        "token": ""
+    }
+}
+
